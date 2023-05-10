@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.project {
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+}
+
+.innerHead {
+  display: flex;
+  justify-content: space-between;
+}
+
+.image {
+  height: 200px;
+  width: 200px;
+}

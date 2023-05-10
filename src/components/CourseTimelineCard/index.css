@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.course {
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+}
+
+.head {
+  display: flex;
+  justify-content: space-between;
+}
+.courseTag {
+  display: flex;
+  flex-wrap: wrap;
+  width: 300px;
+}
+.tagName {
+  background-color: #1e293b;
+  color: #fff;
+  padding: 4px;
+  margin: 6px;
+}
